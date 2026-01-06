@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap');
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 13%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 13%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 13%;
+
+    --primary: 354 82% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 0 0% 13%;
+
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+
+    --accent: 0 0% 96%;
+    --accent-foreground: 0 0% 13%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 354 82% 45%;
+
+    --radius: 1rem;
+
+    /* Custom Pinterest tokens */
+    --pin-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
+    --pin-hover-shadow: 0 4px 30px rgba(0, 0, 0, 0.15);
+    --overlay-bg: 0 0% 0% / 0.5;
+    --search-bg: 0 0% 95%;
+  }
+
+  .dark {
+    --background: 0 0% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 354 82% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 18%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 65%;
+
+    --accent: 0 0% 18%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 354 82% 50%;
+
+    --search-bg: 0 0% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Nunito', sans-serif;
+  }
+}
+
+@layer utilities {
+  .masonry-grid {
+    column-count: 2;
+    column-gap: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .masonry-grid {
+      column-count: 3;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .masonry-grid {
+      column-count: 4;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .masonry-grid {
+      column-count: 5;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .masonry-grid {
+      column-count: 6;
+    }
+  }
+
+  .masonry-item {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+  }
+
+  .pin-card {
+    @apply relative rounded-2xl overflow-hidden cursor-pointer;
+    box-shadow: var(--pin-shadow);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .pin-card:hover {
+    transform: scale(1.02);
+    box-shadow: var(--pin-hover-shadow);
+  }
+
+  .pin-overlay {
+    @apply absolute inset-0 bg-black/0 transition-all duration-200;
+  }
+
+  .pin-card:hover .pin-overlay {
+    @apply bg-black/40;
+  }
+
+  .pin-actions {
+    @apply absolute top-3 right-3 opacity-0 transition-opacity duration-200;
+  }
+
+  .pin-card:hover .pin-actions {
+    @apply opacity-100;
+  }
+}

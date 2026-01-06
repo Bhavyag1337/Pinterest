@@ -1,0 +1,118 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "filename": "nature-forest.jpg",
+      "title": "Mystical Forest Path",
+      "tags": ["nature", "forest", "trees", "green", "peaceful"]
+    },
+    {
+      "id": "2",
+      "filename": "food-pasta.jpg",
+      "title": "Homemade Italian Pasta",
+      "tags": ["food", "pasta", "italian", "cooking", "recipe"]
+    },
+    {
+      "id": "3",
+      "filename": "travel-beach.jpg",
+      "title": "Tropical Beach Paradise",
+      "tags": ["travel", "beach", "ocean", "vacation", "summer"]
+    },
+    {
+      "id": "4",
+      "filename": "interior-modern.jpg",
+      "title": "Modern Living Room Design",
+      "tags": ["interior", "home", "design", "modern", "living room"]
+    },
+    {
+      "id": "5",
+      "filename": "fashion-outfit.jpg",
+      "title": "Street Style Fashion",
+      "tags": ["fashion", "outfit", "style", "clothing", "streetwear"]
+    },
+    {
+      "id": "6",
+      "filename": "art-abstract.jpg",
+      "title": "Abstract Color Explosion",
+      "tags": ["art", "abstract", "colorful", "painting", "creative"]
+    },
+    {
+      "id": "7",
+      "filename": "fitness-yoga.jpg",
+      "title": "Morning Yoga Session",
+      "tags": ["fitness", "yoga", "health", "wellness", "meditation"]
+    },
+    {
+      "id": "8",
+      "filename": "tech-workspace.jpg",
+      "title": "Minimal Tech Workspace",
+      "tags": ["tech", "workspace", "minimal", "desk", "office"]
+    },
+    {
+      "id": "9",
+      "filename": "flowers-bouquet.jpg",
+      "title": "Elegant Flower Bouquet",
+      "tags": ["flowers", "bouquet", "roses", "wedding", "floral"]
+    },
+    {
+      "id": "10",
+      "filename": "coffee-cafe.jpg",
+      "title": "Cozy Coffee Moment",
+      "tags": ["coffee", "cafe", "latte", "cozy", "morning"]
+    },
+    {
+      "id": "11",
+      "filename": "pet-dog.jpg",
+      "title": "Happy Golden Retriever",
+      "tags": ["pet", "dog", "puppy", "animal", "cute"]
+    },
+    {
+      "id": "12",
+      "filename": "diy-crafts.jpg",
+      "title": "Creative DIY Crafts",
+      "tags": ["diy", "crafts", "handmade", "creative", "hobby"]
+    },
+    {
+      "id": "13",
+      "filename": "Art-wallpaper.jpg",
+      "title": "Classical art",
+      "tags": ["classic", "music", "india", "culture", "beauty"]
+    },
+    {
+      "id": "14",
+      "filename": "Celebration.jpg",
+      "title": "Celebration",
+      "tags": ["party", "festive", "culture", "beauty"]
+    },
+    {
+      "id": "15",
+      "filename": "Cute-Dog.jpg",
+      "title": "Winter Dog",
+      "tags": ["pet", "dog", "puppy", "animal", "cute"]
+    },
+    {
+      "id": "16",
+      "filename": "Lamp.jpg",
+      "title": "Lamp",
+      "tags": ["Lamp", "decoration"]
+    },
+    {
+      "id": "17",
+      "filename": "New-Year.jpg",
+      "title": "New Year",
+      "tags": ["party", "festive", "happy"]
+    },
+    {
+      "id": "18",
+      "filename": "Religieuse-temple.jpg",
+      "title": "Gurudwara",
+      "tags": ["sikh", "culture", "temple", "religieuse"]
+    },
+    {
+      "id": "19",
+      "filename": "Temple.jpg",
+      "title": "Temple",
+      "tags": ["hindu", "temple", "religieuse"]
+    }
+  ]
+}
