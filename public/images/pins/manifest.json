@@ -113,6 +113,414 @@
       "filename": "Temple.jpg",
       "title": "Temple",
       "tags": ["hindu", "temple", "religieuse"]
+    },
+    {
+      "id": "20",
+      "filename": "travel-1.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "21",
+      "filename": "travel-2.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "22",
+      "filename": "travel-3.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "23",
+      "filename": "travel-4.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "24",
+      "filename": "travel-5.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "25",
+      "filename": "travel-6.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "26",
+      "filename": "travel-7.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "27",
+      "filename": "travel-8.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "28",
+      "filename": "travel-9.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "29",
+      "filename": "travel-10.jpg",
+      "title": "Travel",
+      "tags": ["travel"]
+    },
+    {
+      "id": "30",
+      "filename": "shimla-1.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "31",
+      "filename": "shimla-2.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "32",
+      "filename": "shimla-3.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "33",
+      "filename": "shimla-4.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "34",
+      "filename": "shimla-5.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "35",
+      "filename": "shimla-6.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "36",
+      "filename": "shimla-7.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "37",
+      "filename": "shimla-8.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "38",
+      "filename": "shimla-9.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "39",
+      "filename": "shimla-10.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "40",
+      "filename": "shimla-11.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "41",
+      "filename": "shimla-12.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "42",
+      "filename": "shimla-13.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "43",
+      "filename": "shimla-14.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "44",
+      "filename": "shimla-15.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "45",
+      "filename": "shimla-16.jpg",
+      "title": "Shimla",
+      "tags": ["travel","shimla"]
+    },
+    {
+      "id": "46",
+      "filename": "india-1.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "47",
+      "filename": "india-2.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "48",
+      "filename": "india-3.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "49",
+      "filename": "india-4.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "50",
+      "filename": "india-5.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "51",
+      "filename": "india-6.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "52",
+      "filename": "india-7.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "53",
+      "filename": "india-8.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "54",
+      "filename": "india-9.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "55",
+      "filename": "india-10.jpg",
+      "title": "India",
+      "tags": ["india"]
+    },
+    {
+      "id": "56",
+      "filename": "himachal-1.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "57",
+      "filename": "himachal-2.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "58",
+      "filename": "himachal-3.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "59",
+      "filename": "himachal-4.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "60",
+      "filename": "himachal-5.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "61",
+      "filename": "himachal-6.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "62",
+      "filename": "himachal-7.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "63",
+      "filename": "himachal-8.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "64",
+      "filename": "himachal-9.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "65",
+      "filename": "himachal-10.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "66",
+      "filename": "himachal-11.jpg",
+      "title": "Himachal",
+      "tags": ["himachal"]
+    },
+    {
+      "id": "67",
+      "filename": "dog-1.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "68",
+      "filename": "dog-2.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "69",
+      "filename": "dog-3.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "70",
+      "filename": "dog-4.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "71",
+      "filename": "dog-5.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "72",
+      "filename": "dog-6.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "73",
+      "filename": "dog-7.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "74",
+      "filename": "dog-8.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "75",
+      "filename": "dog-9.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "76",
+      "filename": "dog-10.jpg",
+      "title": "Dog",
+      "tags": ["dog","cute"]
+    },
+    {
+      "id": "77",
+      "filename": "car-1.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "78",
+      "filename": "car-2.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "79",
+      "filename": "car-3.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "80",
+      "filename": "car-4.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "81",
+      "filename": "car-5.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "82",
+      "filename": "car-6.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "83",
+      "filename": "car-7.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "84",
+      "filename": "car-8.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "85",
+      "filename": "car-9.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "86",
+      "filename": "car-10.jpg",
+      "title": "Car",
+      "tags": ["car"]
+    },
+    {
+      "id": "87",
+      "filename": "car-11.jpg",
+      "title": "Car",
+      "tags": ["car"]
     }
   ]
 }
